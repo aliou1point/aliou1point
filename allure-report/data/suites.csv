@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Mar 23 15:23:18 CET 2022","Wed Mar 23 15:23:18 CET 2022","256","","Products api GET /produtos","","Products api GET /produtos","should return a list with all products","should return a list with all products",""
+"passed","Wed Mar 23 15:23:20 CET 2022","Wed Mar 23 15:23:20 CET 2022","21","","Mocha’s interface it provides a way to keep tests easier to read and organized.","","Mocha’s interface it provides a way to keep tests easier to read and organized.","This is your test case","This is your test case",""

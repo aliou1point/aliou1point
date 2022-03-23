@@ -1,0 +1,39 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "should return a list with all products",
+    "uid" : "9872b6ede9c8a269",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1648045398153,
+      "stop" : 1648045398409,
+      "duration" : 256
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 3,
+    "retriesStatusChange" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "This is your test case",
+    "uid" : "1039571a5c1c2064",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1648045400726,
+      "stop" : 1648045400747,
+      "duration" : 21
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 2,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  } ]
+}

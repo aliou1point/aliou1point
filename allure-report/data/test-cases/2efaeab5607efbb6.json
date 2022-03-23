@@ -1,0 +1,48 @@
+{
+  "uid" : "2efaeab5607efbb6",
+  "name" : "This is your test case",
+  "fullName" : "Mocha’s interface it provides a way to keep tests easier to read and organized..This is your test case",
+  "historyId" : "9c9823f6043d356e5ba68280a8d900ce",
+  "time" : {
+    "start" : 1648045269723,
+    "stop" : 1648045269748,
+    "duration" : 25
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Mocha’s interface it provides a way to keep tests easier to read and organized."
+  }, {
+    "name" : "testClass",
+    "value" : "Mocha’s interface it provides a way to keep tests easier to read and organized."
+  }, {
+    "name" : "testMethod",
+    "value" : "This is your test case"
+  }, {
+    "name" : "package",
+    "value" : "Mocha’s interface it provides a way to keep tests easier to read and organized."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2efaeab5607efbb6.json",
+  "parameterValues" : [ ]
+}

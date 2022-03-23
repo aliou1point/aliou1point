@@ -1,0 +1,66 @@
+{
+  "uid" : "1039571a5c1c2064",
+  "name" : "This is your test case",
+  "fullName" : "Mocha’s interface it provides a way to keep tests easier to read and organized..This is your test case",
+  "historyId" : "9c9823f6043d356e5ba68280a8d900ce",
+  "time" : {
+    "start" : 1648045400726,
+    "stop" : 1648045400747,
+    "duration" : 21
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Mocha’s interface it provides a way to keep tests easier to read and organized."
+  }, {
+    "name" : "testClass",
+    "value" : "Mocha’s interface it provides a way to keep tests easier to read and organized."
+  }, {
+    "name" : "testMethod",
+    "value" : "This is your test case"
+  }, {
+    "name" : "package",
+    "value" : "Mocha’s interface it provides a way to keep tests easier to read and organized."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2efaeab5607efbb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648045269723,
+        "stop" : 1648045269748,
+        "duration" : 25
+      }
+    }, {
+      "uid" : "dec471a8d44ccb30",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648024958643,
+        "stop" : 1648024958667,
+        "duration" : 24
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1039571a5c1c2064.json",
+  "parameterValues" : [ ]
+}

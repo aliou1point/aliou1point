@@ -1,0 +1,21 @@
+[ {
+  "uid" : "1039571a5c1c2064",
+  "name" : "This is your test case",
+  "time" : {
+    "start" : 1648045400726,
+    "stop" : 1648045400747,
+    "duration" : 21
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9872b6ede9c8a269",
+  "name" : "should return a list with all products",
+  "time" : {
+    "start" : 1648045398153,
+    "stop" : 1648045398409,
+    "duration" : 256
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,77 @@
+{
+  "uid" : "9872b6ede9c8a269",
+  "name" : "should return a list with all products",
+  "fullName" : "Products api GET /produtos.should return a list with all products",
+  "historyId" : "561494bfa2ec3500cc219174667917f3",
+  "time" : {
+    "start" : 1648045398153,
+    "stop" : 1648045398409,
+    "duration" : 256
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Products api GET /produtos"
+  }, {
+    "name" : "testClass",
+    "value" : "Products api GET /produtos"
+  }, {
+    "name" : "testMethod",
+    "value" : "should return a list with all products"
+  }, {
+    "name" : "package",
+    "value" : "Products api GET /produtos"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4943fad342d7cfe",
+      "status" : "failed",
+      "statusDetails" : "expected 3 to equal 2",
+      "time" : {
+        "start" : 1648045266788,
+        "stop" : 1648045267199,
+        "duration" : 411
+      }
+    }, {
+      "uid" : "b1143041ae5a7331",
+      "status" : "failed",
+      "statusDetails" : "expected 2 to equal 6",
+      "time" : {
+        "start" : 1648024955860,
+        "stop" : 1648024956217,
+        "duration" : 357
+      }
+    }, {
+      "uid" : "fa7d22ec87b37bfc",
+      "status" : "failed",
+      "statusDetails" : "expected 2 to equal 6",
+      "time" : {
+        "start" : 1648024670057,
+        "stop" : 1648024674221,
+        "duration" : 4164
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9872b6ede9c8a269.json",
+  "parameterValues" : [ ]
+}

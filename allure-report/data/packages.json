@@ -1,0 +1,47 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Products api GET /produtos",
+    "children" : [ {
+      "name" : "should return a list with all products",
+      "uid" : "9872b6ede9c8a269",
+      "parentUid" : "ea50f9e22a18fdf76f83d98403f64b3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648045398153,
+        "stop" : 1648045398409,
+        "duration" : 256
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ea50f9e22a18fdf76f83d98403f64b3e"
+  }, {
+    "name" : "Mocha’s interface it provides a way to keep tests easier to read and organized",
+    "children" : [ {
+      "name" : "This is your test case",
+      "uid" : "1039571a5c1c2064",
+      "parentUid" : "7b000a8d1bbb972ee09b50485e396a5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648045400726,
+        "stop" : 1648045400747,
+        "duration" : 21
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7b000a8d1bbb972ee09b50485e396a5c"
+  } ]
+}

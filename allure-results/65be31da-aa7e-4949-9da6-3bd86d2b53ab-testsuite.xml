@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1648024955860' stop='1648024956252'>
+    <name>Products api GET /produtos</name>
+    <title>Products api GET /produtos</title>
+    <test-cases>
+        <test-case start='1648024955860' status='failed' stop='1648024956217'>
+            <name>should return a list with all products</name>
+            <title>should return a list with all products</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>expected 2 to equal 6</message>
+                <stack-trace>AssertionError: expected 2 to equal 6
+                    at Context.eval (http://localhost:57673/__cypress/tests?p=cypress\integration\example\product.spec.js:108:45)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
