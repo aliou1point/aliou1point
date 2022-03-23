@@ -1,0 +1,11 @@
+<testsuite name="Mocha Tests" tests="1" failures="0" errors="1" skipped="0" timestamp="Tue, 22 Mar 2022 15:10:43 GMT" time="0.851">
+<testcase classname="Products api GET /produtos" name="should return a list with all products" time="0"><failure>expected 6 to equal 2
+
+      + expected - actual
+
+      -6
+      +2
+      
+AssertionError: expected 6 to equal 2
+    at Context.eval (http://localhost:63261/__cypress/tests?p=cypress\integration\example\test.spec.js:108:45)</failure></testcase>
+</testsuite>
